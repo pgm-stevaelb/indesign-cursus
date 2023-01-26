@@ -2,46 +2,40 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introductie
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Deze cursus InDesign werd opgesteld voor het keuzevak InDesign dat wordt gegeven op de Broederscholen, deel van Katholiek Onderwijs Land van Waas.
 
-## Getting Started
+Alle inhoud in deze cursus mag vrij gebruikt worden en dient vooral als leidraad tijdens de cursus. Je kan hem altijd terugvinden onder het Team van het keuzevak. Ook zijn in dit Team de oefeningen en opdrachten terug te vinden.
 
-Get started by **creating a new site**.
+Heel veel inhoud zal van externe bronnen afkomstig zijn. We vinden hier geen warm water uit, dus maken we ook gebruik van bronnen die wij als zeer goed ondervonden.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Je zal merken dat er redelijk veel theorie vermeld staat in de cursus. Alle theorie die gegeven wordt, zal ook in de les vermeld worden. Wanneer je afwezig zou zijn of thuis gewoon eens de theorie opnieuw wil bekijken, kan je dat op je eigen tijd doen. Aangezien de cursus bedoelt is om zeer praktisch te zijn, gaan we tijdens de fysieke lessen minder stilstaan bij de theorie.
 
-### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Wat we nodig hebben
 
-## Generate a new site
+### Op school
 
-Generate a new Docusaurus site using the **classic template**.
+- **INSPIRATIE & CREATIVITEIT**
+- Papier (liefst geruit)
+- Minstens een pen of een potlood
+- Een aantal gekleurde pennen of potloden
 
-The classic template will automatically be added to your project after you run the command:
+:::note
+Voor we aan een opdracht beginnen, moeten we eerst op papier een schets maken. We komen hier verder in de lessen op terug.
+:::
 
-```bash
-npm init docusaurus@latest my-website classic
-```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### Thuis
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+- Adobe InDesign
+- **NOG MEER INSPIRATIE & CREATIVITEIT!**
 
-## Start your site
+:::info
+Vind hier terug hoe je thuis InDesign installeert.'
+:::
 
-Run the development server:
+## Let's Go!
 
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+OK, we hebben onze materialen, laten we erin vliegen en onze eerste keer InDesign opstarten.

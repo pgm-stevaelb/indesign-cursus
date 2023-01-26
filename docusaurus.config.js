@@ -54,13 +54,12 @@ const config = {
           {
             type: 'doc',
             docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
+            position: 'right',
+            label: 'Lessen',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://humaniora.broeders.be/',
-            label: 'Website Humaniora',
+            label: 'Humaniora',
             position: 'right',
           },
         ],
