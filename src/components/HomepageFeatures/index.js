@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Leren',
+    Svg: require('@site/static/img/undraw_knowledge_re_5v9l.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Je zal tijdens de fysieke lessen telkens kort wat theorie krijgen, maar je kan gebruik maken van deze online cursus om snel dingen terug te vinden.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Doen',
+    Svg: require('@site/static/img/undraw_developer_activity_re_39tg.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Alle lessen worden zo praktisch mogelijk gegeven, we zorgen ervoor dat je InDesign in de vingers krijgt.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Afwerken',
+    Svg: require('@site/static/img/undraw_book_lover_re_rwjy.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Ons doel is dat we een mooi eindresultaat verkrijgen waar je zelf ook heel trots op kan zijn.
       </>
     ),
   },
