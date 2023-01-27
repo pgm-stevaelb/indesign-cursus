@@ -59,5 +59,7 @@
     }
   ],
   "frontMatter.taxonomy.tags": [],
-  "frontMatter.taxonomy.categories": []
+  "frontMatter.taxonomy.categories": [],
+  "frontMatter.content.autoUpdateDate": false,
+  "frontMatter.framework.startCommand": "npm start"
 }

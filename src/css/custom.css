@@ -33,6 +33,11 @@
 
 img {
   border-radius: .5rem;
+  margin-bottom: 1rem;
+}
+
+a {
+  font-weight: bold;
 }
 
 strong {
