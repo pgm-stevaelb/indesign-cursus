@@ -40,10 +40,6 @@ a {
   font-weight: bold;
 }
 
-strong {
-  color: var(--ifm-color-primary);
-}
-
 .highlight {
   background-color: var(--ifm-color-primary-lighter);
   border-radius: 4px;

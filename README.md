@@ -4,6 +4,11 @@ Website opgebouwd met [Docusaurus 2](https://docusaurus.io/).
 
 ## Wijzigingen
 
+#### 1.0.3 - 2023-01-31
+- UPDATE: Plugin updates
+- UPDATE: Uninstalled Image Zoom
+- UPDATE: Added more content
+
 #### 1.0.2 - 2023-01-27
 - UPDATE: Added more content
 - FIX: Edit to some styling to make more readable
