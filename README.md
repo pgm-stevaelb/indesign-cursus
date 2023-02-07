@@ -4,6 +4,12 @@ Website opgebouwd met [Docusaurus 2](https://docusaurus.io/).
 
 ## Wijzigingen
 
+#### 1.0.5 - 2023-02-07
+- UPDATE: Added more content
+
+#### 1.0.4 - 2023-02-06
+- NEW: Added Algolia Search
+
 #### 1.0.3 - 2023-01-31
 - UPDATE: Plugin updates
 - UPDATE: Uninstalled Image Zoom
