@@ -1,0 +1,23 @@
+backend:
+  name: github
+  branch: main 
+  repo: pgm-stevaelb/indesign-cursus
+
+# These lines should *not* be indented
+media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+- name: docs
+  label: "Docs"
+  folder: docs
+  identifier_field: title
+  extension: mdx
+  widget: "list"
+  create: true
+  slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  fields:
+    - { name: title, label: Title, widget: string }
+    - { name: slug, label: Slug, widget: string }
+    - { name: sidebar_position, label: 'Sidebar Position', widget: number }
+    - { name: body, label: Body, widget: markdown }

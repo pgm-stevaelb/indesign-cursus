@@ -6,6 +6,8 @@ Website opgebouwd met [Docusaurus 2](https://docusaurus.io/).
 
 #### 1.0.6 - 2023-02-08
 - NEW: Basisbegrippen toegevoegd
+- NEW: Init for CMS integration  (WIP)
+- UPDATE: More content
 
 #### 1.0.5 - 2023-02-07
 - UPDATE: Added more content
