@@ -10,8 +10,10 @@ const ENV = require('dotenv').config();
 const config = {
   title: 'Keuzevak InDesign 2023',
   tagline: 'Cursus InDesign, nauwkeurig opgebouwd voor keuzevak Broederschool Humaniora.',
-  url: 'https://pgm-stevaelb.github.io',
-  baseUrl: '/indesign-cursus/',
+  // url: 'https://pgm-stevaelb.github.io',
+  // baseUrl: '/indesign-cursus/',
+  url: 'https://cursus-indesign.netlify.app/',
+  baseUrl: '/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
