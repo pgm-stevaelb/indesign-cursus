@@ -6,6 +6,7 @@ Website opgebouwd met [Docusaurus 2](https://docusaurus.io/).
 
 #### 1.0.5 - 2023-02-07
 - UPDATE: Added more content
+- UPDATE: Image edits
 
 #### 1.0.4 - 2023-02-06
 - NEW: Added Algolia Search
